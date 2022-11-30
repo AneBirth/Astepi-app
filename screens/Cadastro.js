@@ -1,4 +1,3 @@
-import { NavigationContainer } from "@react-navigation/native";
 import React, { useState } from "react";
 import { StyleSheet, View, Alert } from "react-native";
 import { Input, Text, Button } from "react-native-elements";

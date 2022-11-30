@@ -1,13 +1,6 @@
-import { NavigationContainer, NavigationHelpersContext } from "@react-navigation/native";
 import React, { useState } from "react";
 import { StyleSheet, View, Alert } from "react-native";
 import { Button, Input, Text } from "react-native-elements";
-import Cadastro from "./Cadastro";
-
-
-
-
-
 
 export default function Login({navigation}){
 

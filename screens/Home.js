@@ -1,12 +1,8 @@
-import { NavigationContainer } from "@react-navigation/native";
-import React, { useState } from "react";
+import React from "react";
 import { StyleSheet, View, Image } from "react-native";
 import { Button, Input, Text } from "react-native-elements";
 
-
-
 export default function Home({navigation}){
-
 
     return (
     <View style = {styles.container}>
